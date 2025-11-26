@@ -61,8 +61,8 @@ Open it in Tableau Desktop.
 Use filters and interactive elements to explore patterns, compare markets, and analyze trends.
 
 Learnings and Outcome
-View the dashboard here : https://public.tableau.com/app/profile/nikhil.p.marihal3329/viz/PRESENTATIONEV/DATAANALYSIS
 
 Enhanced understanding of EV industry dynamics and sustainability trends.
 Improved skills in data storytelling, dashboard structuring, and KPI design.
 Strengthened ability to translate raw data into actionable insights for strategic planning.
+View the dashboard here : https://public.tableau.com/app/profile/nikhil.p.marihal3329/viz/PRESENTATIONEV/DATAANALYSIS
